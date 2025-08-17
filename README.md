@@ -68,6 +68,3 @@ After extracting the code, you can run this project locally using the following 
 
 This project is developed for academic research use only.  
 
----
-
-*Created as part of a research project by sandakirani.* 🌱
