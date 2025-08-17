@@ -1,3 +1,4 @@
+![Background](image/background.jpeg)
 # 🎵 Singing Mode & Song Selection App (Frontend Only)
 
 This project is a **frontend-only** web application created for a research study. Its main purpose is to provide an intuitive interface for users to:
