@@ -1,4 +1,3 @@
-![Background](image/background.jpeg)
 # 🎵 Singing Mode & Song Selection App (Frontend Only)
 
 This project is a **frontend-only** web application created for a research study. Its main purpose is to provide an intuitive interface for users to:
@@ -35,6 +34,11 @@ This application serves as a prototype for research, focusing on user interactio
 - 📦 **Expo (no CLI usage)**
 - 💡 **JavaScript**
 - 🧭 **React Navigation** – if multiple screens are used
+
+---
+## 🎥 Project Demo
+
+<video src="https://github.com/user-attachments/assets/38f0f956-c9a0-44d7-9a4b-31e9aa484392" controls width="700" autoplay muted loop></video>
 
 ---
 
